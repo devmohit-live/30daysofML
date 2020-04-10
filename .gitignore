@@ -5,10 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+*.exe
 
 # Distribution / packaging
 .Python
 build/
+bckp/
 develop-eggs/
 dist/
 downloads/
