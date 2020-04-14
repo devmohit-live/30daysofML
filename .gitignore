@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+
 # C extensions
 *.so
 *.exe
@@ -10,6 +12,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+Basic Terms and Intro about docs/
 bckp/
 develop-eggs/
 dist/
